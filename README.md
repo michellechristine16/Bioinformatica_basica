@@ -1,1 +1,1 @@
-# Bioinformatica_basica: Aquí encontrarás recursos de bionformática
+# Bioinformatica_basica: Aquí encontrarás recursos de bioinformática
